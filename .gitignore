@@ -27,3 +27,6 @@
 **/Properties
 *.csproj.user
 **/node_modules
+
+.vscode
+/.vscode
